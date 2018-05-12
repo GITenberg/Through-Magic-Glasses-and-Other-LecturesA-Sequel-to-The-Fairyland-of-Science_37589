@@ -1,0 +1,37 @@
+_repo: Through-Magic-Glasses-and-Other-LecturesA-Sequel-to-The-Fairyland-of-Science_37589
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37589-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Buckley, Arabella B. (Arabella Burton)
+    alias: Fisher, Arabella Burton Buckley
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '1854'
+    url: http://www.gutenberg.org/2009/agents/1854
+description: ''
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Juvenile literature'
+- !lcc 'Q'
+- !lcsh 'Physical sciences -- Juvenile literature'
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcsh 'Science -- History -- Juvenile literature'
+tableOfContents: The magician's chamber by moonlight -- Magic glasses and how to use
+  them -- Fairy rings and how they are made -- The life-history of lichens and mosses
+  -- The history of a lava stream -- An hour with the sun -- An evening among the
+  stars -- Little beings from a miniature ocean -- The Dartmoor ponies -- The magician's
+  dream of ancient days.
+title: 'Through Magic Glasses and Other Lectures
+
+  A Sequel to The Fairyland of Science'
+url: http://www.gutenberg.org/ebooks/37589
