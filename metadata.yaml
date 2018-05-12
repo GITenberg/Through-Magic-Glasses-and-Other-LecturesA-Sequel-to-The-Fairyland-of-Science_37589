@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1854'
     url: http://www.gutenberg.org/2009/agents/1854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37589#Through-Magic-Glasses-and-Other-LecturesA-Sequel-to-The-Fairyland-of-Science
 gutenberg_issued: '2011-10-01'
 gutenberg_type: Text
 identifiers:
